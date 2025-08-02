@@ -1,0 +1,19 @@
+
+*{
+    font-family: 'Monstserrat', sans-serif;
+
+
+}
+
+.bg-primary{
+
+    background-color: #2b3035 !important;
+}
+
+.progress{
+    background-color: rgba (255, 255, 255, 0.2);     
+}
+
+.progress-bar{
+    background-color: blueviolet;
+}
