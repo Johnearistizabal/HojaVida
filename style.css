@@ -17,3 +17,17 @@
 .progress-bar{
     background-color: blueviolet;
 }
+
+.text-primary{
+    color:  #349834 !important;
+}
+
+.card{
+    transition: transform 0.3s ease , box-shadow 0.3s ease;
+}
+
+.card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20 px rgba(0, 0, 0, 0.1);
+
+}
